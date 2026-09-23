@@ -183,10 +183,7 @@
    
 }
 .book-title {
-    font-size: 16px;
-    color: #4c1d95;
-    margin-bottom: 6px;
-    font-weight: 700;
+    
 }
 .book-author {
     font-size: 13px;
