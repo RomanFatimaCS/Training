@@ -54,11 +54,7 @@
 
         /* ===== NAV LINKS (CENTER) ===== */
         .nav-links {
-            list-style: none;
-            display: flex;
-            gap: 30px;
-            justify-content: center;
-            flex: 1;
+           
         }
 
         .nav-links a {
