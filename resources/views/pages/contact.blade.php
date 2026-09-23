@@ -70,11 +70,7 @@
 
 {{-- ==================== CTA ==================== --}}
 <section class="cta-section">
-    <div class="cta-content">
-        <h2>Join Our Reading Community</h2>
-        <p>Get personalized recommendations, exclusive deals, and early access to new releases.</p>
-        <a href="#" class="cta-btn">Sign Up Free</a>
-    </div>
+    
 </section>
 
 @endsection
@@ -112,11 +108,7 @@
     background-clip: text;
 }
 .hero-subtitle {
-    font-size: 18px;
-    color: #6b21a8;
-    max-width: 600px;
-    margin: 0 auto 32px;
-    line-height: 1.6;
+   
 }
 .hero-buttons {
     display: flex;
