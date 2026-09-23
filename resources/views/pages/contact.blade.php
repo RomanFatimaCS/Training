@@ -180,8 +180,7 @@
     box-shadow: 0 12px 30px rgba(168, 85, 247, 0.25);
 }
 .book-cover {
-    font-size: 58px;
-    margin-bottom: 14px;
+   
 }
 .book-title {
     font-size: 16px;
