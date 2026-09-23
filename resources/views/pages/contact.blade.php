@@ -256,8 +256,7 @@
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
 }
 .cta-btn:hover {
-    background: #f3e8ff;
-    transform: translateY(-2px);
+   
 }
 
 /* ==================== RESPONSIVE ==================== */
