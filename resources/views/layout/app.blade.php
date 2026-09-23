@@ -113,12 +113,7 @@
 
         /* ===== FOOTER ===== */
         footer {
-            background: #e9d5ff;
-            color: #6b21a8;
-            text-align: center;
-            padding: 22px 0;
-            font-size: 14px;
-            box-shadow: 0 -2px 10px rgba(168, 85, 247, 0.15);
+           
         }
 
         /* ===== RESPONSIVE ===== */
