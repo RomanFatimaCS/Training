@@ -47,10 +47,7 @@
 
 {{-- ==================== CATEGORIES ==================== --}}
 <section class="section">
-    <div class="section-header">
-        <h2>Browse by Category</h2>
-        <p>Find the perfect book for every mood.</p>
-    </div>
+    
 
     <div class="categories-grid">
         @foreach ([
