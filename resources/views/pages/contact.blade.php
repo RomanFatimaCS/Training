@@ -26,11 +26,6 @@
 
 {{-- ==================== FEATURED BOOKS ==================== --}}
 <section id="featured" class="section">
-    <div class="section-header">
-        <h2>Featured Books</h2>
-        <p>Handpicked reads loved by our community.</p>
-    </div>
-
     <div class="books-grid">
         @foreach ([
             ['The Midnight Library', 'Matt Haig',    'Fiction',    '📘'],
@@ -221,11 +216,7 @@
 }
 
 /* ==================== CATEGORIES ==================== */
-.categories-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 16px;
-}
+
 .category-card {
     background: #fff;
     border-radius: 14px;
